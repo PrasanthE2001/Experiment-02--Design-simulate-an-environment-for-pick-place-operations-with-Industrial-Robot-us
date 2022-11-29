@@ -126,4 +126,4 @@ r.ProgSave(r"""C:/Users/Jayashree Rao/OneDrive/Documents/RoboDK""",r"""PICKANDPL
  
 
 ### RESULTS :  
-    Thus, an environment for pick & place operations with Industrial Robot using Robo DK software is designed and simulated.
+    Thus, an environment for pick & place operations with Industrial Robot using Robo DK software is designed and simulated
